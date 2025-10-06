@@ -92,7 +92,7 @@ The dashboard design focuses on:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot][(Dashboard_Screenshot.png)](https://github.com/kaoutaressalhy2022-ui/Power-BI-Project-Management-Dashboard/blob/main/pmd3.png)
 
 ---
 
